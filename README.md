@@ -6,7 +6,7 @@ with GitHub Codespace, this repo can be edited through the browser. And by iPad.
 
 But it's stupid to use the Apple Pencil or the smart Keyboard to input the code.
 
-Now I am using my keyboard by USB-C connected.
+Now I am using my keyboard connecting with USB-C.
 
 # 2020.9.30
 
