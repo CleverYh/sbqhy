@@ -1,3 +1,7 @@
+# HuffmanTree
+
+has its own repo at https://github.com/CleverYh/HuffmanTree
+
 # sbqhy
 
 This repo stores the code of the homework in the course DCS211-Data Structure and Algorithm by Qiao Haiyan.
