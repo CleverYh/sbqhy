@@ -18,9 +18,9 @@ public:
 } customer;
 
 class window {
-
-public:
     static int windowNumber;
+public:
+
     int ongoing = 0;
     int doneNum = 0;
     int windowNum;
@@ -49,7 +49,6 @@ public:
 };
 
 int main() {
-    window::windowNumber = 0;
     int Time = 0;
     int Num = 0;
     Bank *b = new Bank;
